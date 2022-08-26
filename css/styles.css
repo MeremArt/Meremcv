@@ -1,0 +1,256 @@
+@media (max-width: 1028px){
+  
+}
+
+#kio{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color:  #f5e8e4;
+  position: sticky;
+
+}
+header{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 30px 10%;
+
+}
+
+li,Button{
+  font-family: adobe-garamond-pro, HelveticaNeue-Light, "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  color: #411530;
+  text-decoration: none;
+
+  }
+.ti{
+
+  font-family: adobe-garamond-pro, HelveticaNeue-Light, "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  color: #411530;
+  text-decoration: none;
+
+}
+
+.logo{
+  cursor: pointer;
+  margin-right: auto;
+}
+.nav-link{
+  list-style: none;
+}
+
+}
+.nav-link{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  position:relative;
+  padding: 0px 20px;
+
+}
+.nav_link,.ti,li{
+  transition: all 0.3s ease 0s;
+}
+
+.nav_link,.ti,li:hover{
+padding: 9px 25px;
+color: #411530;
+}
+
+button{
+  padding: 9px 25px;
+  background-color: #ffaf69;
+  border: none;
+  border-radius: 50px;
+  margin-right: 50px;
+
+  cursor: pointer;
+  transition: all 0.3s ease 0s;
+
+}
+button:hover{
+  background-color: #ff8a69;
+}
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+p {
+  line-height: 2;
+  font-weight: 300;
+
+  font-family: adobe-garamond-pro, HelveticaNeue-Light, "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif
+}
+
+#me {
+  width: 15%;
+}
+
+.description {
+  width: 50%;
+  margin: auto;
+  line-height: 2;
+}
+
+.Do {
+  font-weight: bold;
+  font-size: 25px;
+
+}
+.code-png{float: left;
+width: 40%;
+margin-right: 30px;
+}
+
+
+
+.anyo {
+width: 20%;
+
+margin-left: 10px;
+
+}
+hr{
+  border: dotted #411530 6px;
+  border-bottom: none;
+  width: 5%;
+  margin: 100PX auto;
+}
+
+
+
+h1 {
+  color: #d1512d;
+
+  margin-top: 50px auto 0px auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 80px;
+}
+
+.skill-row {
+  margin: 50px auto 50px auto;
+  padding-bottom: 10PX;
+ width: 50%;
+
+}
+
+.ri{ width: 40%;
+margin: 50PX auto;}
+
+h2 {
+  font-family: 'Merriweather', serif;
+font-size: 2.5rem;
+  margin-bottom: 50px;
+  font-weight: normal;
+  color: #d1512d;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Merriweather', serif;
+  color: #d1512d;
+
+
+}
+
+
+
+.hi {
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.profile {
+  margin: auto;
+  padding: 50px;
+}
+
+.pro {
+  font-size: 20px;
+  color: #411530;
+  font-family: 'Merriweather', serif;
+}
+.btn {
+  background: #ffc7b8;
+  background-image: -webkit-linear-gradient(top, #ffc7b8, #ffb282);
+  background-image: -moz-linear-gradient(top, #ffc7b8, #ffb282);
+  background-image: -ms-linear-gradient(top, #ffc7b8, #ffb282);
+  background-image: -o-linear-gradient(top, #ffc7b8, #ffb282);
+  background-image: linear-gradient(to bottom, #ffc7b8, #ffb282);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 28px;
+  background: #;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #ff8a69;
+  background-image: -webkit-linear-gradient(top, #ff8a69, #ffaf69);
+  background-image: -moz-linear-gradient(top, #ff8a69, #ffaf69);
+  background-image: -ms-linear-gradient(top, #ff8a69, #ffaf69);
+  background-image: -o-linear-gradient(top, #ff8a69, #ffaf69);
+  background-image: linear-gradient(to bottom, #ff8a69, #ffaf69);
+  text-decoration: none;
+}
+
+
+}
+
+a{
+  color: #d1512d;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{color:#ffffff;
+}
+
+.copyright{
+color: #411530;
+padding: 20px 0px;
+font-size: 0.75rem;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 150px;
+  bottom: 300px;
+}
+.video{
+
+height: 380px;
+width: 670px;
+padding-bottom: 30px;
+  margin: auto;
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 150px;
+  top: 30px;
+}
+.top-container {
+  background-color: #f5e8e4;
+  position: relative;
+  padding-top: 100px;
+}
+.bottom-container {
+  background-color: #f5e8e4;
+  padding: 50px 0 20px;
+
+}
+
+.middle-container {
+margin: 100PX 0;
+}
